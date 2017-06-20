@@ -1,7 +1,7 @@
 {
-  "name": "fh-wfm-user-debug",
+  "name": "fh-wfm-user",
   "version": "0.6.8",
-  "description": "A user module for WFM",
+  "description": "DEBUG - A user module for WFM",
   "repository": {
     "type": "git",
     "url": "https://github.com/feedhenry-raincatcher/raincatcher-user.git"
